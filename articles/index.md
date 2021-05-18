@@ -1,4 +1,5 @@
 # Azure DevOps HOL
+# this is my CI Demo Lab
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
